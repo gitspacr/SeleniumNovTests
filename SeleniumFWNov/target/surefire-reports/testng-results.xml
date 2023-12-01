@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-30T01:22:00Z" name="Suite" finished-at="2023-11-30T01:23:05Z" duration-ms="64171">
+    <groups>
+    </groups>
+    <test started-at="2023-11-30T01:22:00Z" name="Test" finished-at="2023-11-30T01:23:05Z" duration-ms="64171">
+      <class name="com.qa.TestScripts.TC_002_Dropdowns">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.qa.TestScripts.TC_002_Dropdowns@8458f04]" started-at="2023-11-30T01:22:47Z" name="launchBrowser" finished-at="2023-11-30T01:23:04Z" duration-ms="16858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validatedropdown()[pri:0, instance:com.qa.TestScripts.TC_002_Dropdowns@8458f04]" started-at="2023-11-30T01:23:04Z" name="validatedropdown" finished-at="2023-11-30T01:23:04Z" duration-ms="819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatedropdown -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.TestScripts.TC_002_Dropdowns@8458f04]" started-at="2023-11-30T01:23:04Z" name="closeBrowser" finished-at="2023-11-30T01:23:05Z" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.TestScripts.TC_002_Dropdowns -->
+      <class name="com.qa.TestScripts.TC_001_BasicControl">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.qa.TestScripts.TC_001_BasicControl@606e4010]" started-at="2023-11-30T01:22:02Z" name="launchBrowser" finished-at="2023-11-30T01:22:10Z" duration-ms="7736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validateForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.TestScripts.TC_001_BasicControl@606e4010]" started-at="2023-11-30T01:22:10Z" name="validateForm" data-provider="passDataFromExcel" finished-at="2023-11-30T01:22:12Z" duration-ms="2087" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jp@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[john123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateForm -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.TestScripts.TC_001_BasicControl@606e4010]" started-at="2023-11-30T01:22:12Z" name="closeBrowser" finished-at="2023-11-30T01:22:13Z" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.qa.TestScripts.TC_001_BasicControl@606e4010]" started-at="2023-11-30T01:22:13Z" name="launchBrowser" finished-at="2023-11-30T01:22:18Z" duration-ms="5698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validateForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.TestScripts.TC_001_BasicControl@606e4010]" started-at="2023-11-30T01:22:18Z" name="validateForm" data-provider="passDataFromExcel" finished-at="2023-11-30T01:22:21Z" duration-ms="2326" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Son]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ss@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ss123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateForm -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.TestScripts.TC_001_BasicControl@606e4010]" started-at="2023-11-30T01:22:21Z" name="closeBrowser" finished-at="2023-11-30T01:22:21Z" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.qa.TestScripts.TC_001_BasicControl@606e4010]" started-at="2023-11-30T01:22:21Z" name="launchBrowser" finished-at="2023-11-30T01:22:27Z" duration-ms="5702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validateForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.TestScripts.TC_001_BasicControl@606e4010]" started-at="2023-11-30T01:22:27Z" name="validateForm" data-provider="passDataFromExcel" finished-at="2023-11-30T01:22:29Z" duration-ms="2464" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jack]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jill]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jj@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jj123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateForm -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.TestScripts.TC_001_BasicControl@606e4010]" started-at="2023-11-30T01:22:29Z" name="closeBrowser" finished-at="2023-11-30T01:22:29Z" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.qa.TestScripts.TC_001_BasicControl@606e4010]" started-at="2023-11-30T01:22:29Z" name="launchBrowser" finished-at="2023-11-30T01:22:35Z" duration-ms="5780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validateForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.TestScripts.TC_001_BasicControl@606e4010]" started-at="2023-11-30T01:22:35Z" name="validateForm" data-provider="passDataFromExcel" finished-at="2023-11-30T01:22:38Z" duration-ms="2412" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jt@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jt123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateForm -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.TestScripts.TC_001_BasicControl@606e4010]" started-at="2023-11-30T01:22:38Z" name="closeBrowser" finished-at="2023-11-30T01:22:38Z" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.qa.TestScripts.TC_001_BasicControl@606e4010]" started-at="2023-11-30T01:22:38Z" name="launchBrowser" finished-at="2023-11-30T01:22:45Z" duration-ms="6634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validateForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.TestScripts.TC_001_BasicControl@606e4010]" started-at="2023-11-30T01:22:45Z" name="validateForm" data-provider="passDataFromExcel" finished-at="2023-11-30T01:22:46Z" duration-ms="1898" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[at@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[at123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateForm -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.TestScripts.TC_001_BasicControl@606e4010]" started-at="2023-11-30T01:22:46Z" name="closeBrowser" finished-at="2023-11-30T01:22:47Z" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.TestScripts.TC_001_BasicControl -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,234 @@
+[DEBUG] 2023-11-29 06:16:22.041 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-29 06:16:22.045 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-29 06:16:22.046 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-29 06:16:22.433 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2023-11-29 06:16:24.205 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:16:30.130 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:16:30.130 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:16:31.140 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:16:36.753 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:16:36.754 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:16:38.516 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:16:44.411 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:16:44.412 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:16:46.282 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:16:53.588 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:16:53.589 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:16:55.469 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:17:01.029 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:17:01.029 [main] TestBase - register form is cleared
+[DEBUG] 2023-11-29 06:28:22.132 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-29 06:28:22.138 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-29 06:28:22.140 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-29 06:28:22.520 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2023-11-29 06:28:24.001 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:28:29.987 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:28:29.987 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:28:31.164 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:28:39.049 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:28:39.049 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:28:41.161 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:29:05.918 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:29:05.918 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:29:06.875 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:29:12.378 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:29:12.378 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:29:13.426 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:29:37.807 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:29:37.807 [main] TestBase - register form is cleared
+[DEBUG] 2023-11-29 06:33:09.828 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-29 06:33:09.835 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-29 06:33:09.836 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-29 06:33:10.211 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2023-11-29 06:33:11.725 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:33:16.604 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:33:16.604 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:33:17.724 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:33:24.088 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:33:24.088 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:33:26.214 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:33:32.172 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:33:32.172 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:33:34.042 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:33:40.090 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:33:40.091 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:33:42.017 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:33:47.707 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:33:47.707 [main] TestBase - register form is cleared
+[DEBUG] 2023-11-29 06:41:26.899 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-29 06:41:26.904 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-29 06:41:26.905 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-29 06:41:27.293 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2023-11-29 06:41:28.800 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:41:34.789 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:41:34.932 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:41:34.932 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:41:36.061 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:41:43.566 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:41:43.651 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:41:43.651 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:41:44.776 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:41:51.710 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:41:51.863 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:41:51.863 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:41:53.438 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:42:00.457 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:42:00.572 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:42:00.572 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:42:02.418 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:42:08.768 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:42:08.836 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:42:08.837 [main] TestBase - register form is cleared
+[DEBUG] 2023-11-29 06:43:45.246 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-29 06:43:45.251 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-29 06:43:45.252 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-29 06:43:45.609 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2023-11-29 06:43:47.113 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:43:52.299 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:43:52.550 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:43:52.991 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:43:52.991 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:43:54.546 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:44:01.566 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:44:01.687 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:44:02.043 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:44:02.043 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:44:03.663 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:44:11.561 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:44:11.726 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:44:12.183 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:44:12.183 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:44:13.957 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:44:21.003 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:44:21.110 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:44:21.482 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:44:21.482 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:44:22.940 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:44:29.283 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:44:29.396 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:44:29.773 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:44:29.774 [main] TestBase - register form is cleared
+[DEBUG] 2023-11-29 06:55:07.503 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-29 06:55:07.511 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-29 06:55:07.513 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-29 06:55:08.165 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2023-11-29 06:55:10.867 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:55:17.603 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:55:17.738 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:55:18.083 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:55:18.083 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:55:19.570 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:55:26.507 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:55:26.686 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:55:27.306 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:55:27.306 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:55:29.652 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:55:38.745 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:55:38.852 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:55:39.221 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:55:39.221 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:55:40.987 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:55:48.435 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:55:48.550 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:55:48.998 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:55:48.998 [main] TestBase - register form is cleared
+[INFO ] 2023-11-29 06:55:50.432 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-29 06:55:58.967 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:55:59.071 [main] TestBase - register form is clear
+[INFO ] 2023-11-29 06:55:59.473 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-29 06:55:59.473 [main] TestBase - register form is cleared
+[DEBUG] 2023-11-30 06:26:46.163 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-30 06:26:46.168 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-30 06:26:46.170 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-30 06:26:46.584 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-11-30 06:35:22.368 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-30 06:35:22.374 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-30 06:35:22.377 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-30 06:35:22.975 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2023-11-30 06:35:25.437 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-30 06:35:32.400 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:35:32.529 [main] TestBase - register form is clear
+[INFO ] 2023-11-30 06:35:32.928 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:35:32.930 [main] TestBase - register form is cleared
+[INFO ] 2023-11-30 06:35:34.465 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-30 06:35:41.427 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:35:41.584 [main] TestBase - register form is clear
+[INFO ] 2023-11-30 06:35:42.007 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:35:42.007 [main] TestBase - register form is cleared
+[INFO ] 2023-11-30 06:35:43.596 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-30 06:36:08.890 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:36:09.008 [main] TestBase - register form is clear
+[INFO ] 2023-11-30 06:36:09.263 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:36:09.263 [main] TestBase - register form is cleared
+[INFO ] 2023-11-30 06:36:10.340 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-30 06:36:16.749 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:36:16.890 [main] TestBase - register form is clear
+[INFO ] 2023-11-30 06:36:17.245 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:36:17.245 [main] TestBase - register form is cleared
+[INFO ] 2023-11-30 06:36:18.493 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-30 06:36:25.010 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:36:25.147 [main] TestBase - register form is clear
+[INFO ] 2023-11-30 06:36:25.539 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:36:25.539 [main] TestBase - register form is cleared
+[DEBUG] 2023-11-30 06:50:13.328 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-30 06:50:13.335 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-30 06:50:13.338 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-30 06:50:13.755 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2023-11-30 06:50:15.238 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-30 06:50:22.407 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:50:22.548 [main] TestBase - register form is clear
+[INFO ] 2023-11-30 06:50:22.993 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:50:22.995 [main] TestBase - register form is cleared
+[INFO ] 2023-11-30 06:50:25.288 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-30 06:50:32.483 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:50:32.577 [main] TestBase - register form is clear
+[INFO ] 2023-11-30 06:50:32.933 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:50:32.933 [main] TestBase - register form is cleared
+[INFO ] 2023-11-30 06:50:34.365 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-30 06:50:41.045 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:50:41.158 [main] TestBase - register form is clear
+[INFO ] 2023-11-30 06:50:41.615 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:50:41.616 [main] TestBase - register form is cleared
+[INFO ] 2023-11-30 06:50:42.961 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-30 06:50:51.218 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:50:51.324 [main] TestBase - register form is clear
+[INFO ] 2023-11-30 06:50:51.783 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:50:51.783 [main] TestBase - register form is cleared
+[INFO ] 2023-11-30 06:50:53.365 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-30 06:50:59.712 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:50:59.832 [main] TestBase - register form is clear
+[INFO ] 2023-11-30 06:51:00.208 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:51:00.208 [main] TestBase - register form is cleared
+[DEBUG] 2023-11-30 06:51:32.052 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-30 06:51:32.057 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-30 06:51:32.059 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-30 06:51:32.624 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-11-30 06:52:02.103 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-30 06:52:02.111 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-30 06:52:02.114 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-30 06:52:02.714 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2023-11-30 06:52:04.991 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-30 06:52:12.141 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:52:12.267 [main] TestBase - register form is clear
+[INFO ] 2023-11-30 06:52:12.681 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:52:12.681 [main] TestBase - register form is cleared
+[INFO ] 2023-11-30 06:52:14.372 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-30 06:52:20.543 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:52:20.675 [main] TestBase - register form is clear
+[INFO ] 2023-11-30 06:52:21.067 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:52:21.067 [main] TestBase - register form is cleared
+[INFO ] 2023-11-30 06:52:22.665 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-30 06:52:29.047 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:52:29.169 [main] TestBase - register form is clear
+[INFO ] 2023-11-30 06:52:29.563 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:52:29.563 [main] TestBase - register form is cleared
+[INFO ] 2023-11-30 06:52:31.103 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-30 06:52:37.559 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:52:37.679 [main] TestBase - register form is clear
+[INFO ] 2023-11-30 06:52:38.079 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:52:38.079 [main] TestBase - register form is cleared
+[INFO ] 2023-11-30 06:52:39.618 [main] TestBase - chrome browser launched successfully
+[INFO ] 2023-11-30 06:52:46.550 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:52:46.646 [main] TestBase - register form is clear
+[INFO ] 2023-11-30 06:52:46.932 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-30 06:52:46.932 [main] TestBase - register form is cleared
